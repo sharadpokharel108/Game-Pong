@@ -4,5 +4,5 @@ The game pong is not new for us.  The pong game features simple graphics and gam
 
 ## Contributors
 ##### Sharad Pokharel (078BCT083)
-##### Sagar Giri (078BCT0xx)
+##### Sagar Giri (078BCT071)
 ##### Sijan Khadka (078BCT088)
